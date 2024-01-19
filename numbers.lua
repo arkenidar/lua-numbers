@@ -380,3 +380,9 @@ n2 = number_text_to_digit_sequence"0.0000000000000000000000000000000000000000000
 test_summation_subtraction(n1, n2)
 
 end
+
+-- https://github.com/arkenidar/lua-numbers/blob/main/numbers.lua
+
+-- https://replit.com/@dariocangialosi/numbers#main.lua
+
+number_tests()
